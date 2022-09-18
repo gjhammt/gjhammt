@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Jhamat</h1>
 <h3 align="center">I'm a frontend web developer based in Winnipeg. I'm passionate about creating interactive websites and experiences on the web.</h3>
+
 - 🌱 I’m currently learning **threejs and reactjs**
 
 - 👨‍💻 All of my projects are available at [https://gjhammt.netlify.app/](https://gjhammt.netlify.app/)
