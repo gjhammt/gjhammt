@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **threejs and reactjs**
 
-- 👨‍💻 All of my projects are available at [https://gjhammt.netlify.app/](https://gjhammt.com/)
+- 👨‍💻 All of my projects are available at [https://gjhammt.com/](https://gjhammt.com/)
 
 - 💬 Ask me about **javascript, sass**
 
