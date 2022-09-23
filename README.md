@@ -11,7 +11,8 @@ I'm a freelance web developer. I'm passionate about creating interactive website
 *   ✉️  You can contact me at [gurpreet@gjhammt.com](mailto:gurpreet@gjhammt.com)
 *   🚀  I'm currently working on [Audi web page clone](http://audi-webpage-clone.netlify.app/)
 *   🧠  I'm learning Reactjs and Typescript
-*   ⚡  I've also been trying to read more so feel free to reach out to me with any book 📚 recommendations! My current read is "Deep Work" by Cal Newport.### Skills 
+*   ⚡  I've also been trying to read more so feel free to reach out to me with any book 📚 recommendations! My current read is "Deep Work" by Cal Newport.
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
