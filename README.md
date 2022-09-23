@@ -29,12 +29,10 @@ I'm a freelance web developer. I'm passionate about creating interactive website
 </p>
 ### Socials
 <p align="left">
-                          
-                      <a href="https://www.github.com/gjhammt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/gjhammt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/gjhammt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/gopijhammt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/gjhammt"><img src="https://github-readme-stats.vercel.app/api?username=gjhammt&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="gjhammt's GitHub stats" /></a>
+<a href="https://www.github.com/gjhammt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/gjhammt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/gjhammt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/gopijhammt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
+### Badges<b>My GitHub Stats</b>
+<a href="http://www.github.com/gjhammt"><img src="https://github-readme-stats.vercel.app/api?username=gjhammt&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="gjhammt's GitHub stats" /></a>
