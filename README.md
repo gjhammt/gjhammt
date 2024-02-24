@@ -9,7 +9,7 @@ I'm a freelance web developer. I'm passionate about creating interactive website
 *   🌍  I'm based in Winnipeg, MB
 *   🖥️  See my portfolio at [gjhammt.com](http://gjhammt.com)
 *   ✉️  You can contact me at [gurpreet@gjhammt.com](mailto:gurpreet@gjhammt.com)
-*   🧠 I'm currently learning Python and doing some Frontend Mentor challanges[https://www.frontendmentor.io/home]
+*   🧠 I'm currently learning Python and doing some [Frontend Mentor](https://www.frontendmentor.io/home) challanges.
 *   ⚡  I've also been trying to read more so feel free to reach out to me with any book 📚 recommendations! My current read is "Deep Work" by Cal Newport.
 ### Skills 
 <p align="left">
